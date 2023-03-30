@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-async-goit/static/css/main.561296d6.css",
+    "main.js": "/redux-async-goit/static/js/main.1976760f.js",
+    "index.html": "/redux-async-goit/index.html",
+    "main.561296d6.css.map": "/redux-async-goit/static/css/main.561296d6.css.map",
+    "main.1976760f.js.map": "/redux-async-goit/static/js/main.1976760f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.561296d6.css",
+    "static/js/main.1976760f.js"
+  ]
+}
